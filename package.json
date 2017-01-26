@@ -1,0 +1,23 @@
+{
+  "name": "moment-es6",
+  "version": "1.0.0",
+  "description": "Module exporting momentjs library object as ES6 style default field",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agamnentzar/moment-es6.git"
+  },
+  "keywords": [
+    "es6",
+    "moment"
+  ],
+  "author": "agamnentzar@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Agamnentzar/moment-es6/issues"
+  },
+  "homepage": "https://github.com/Agamnentzar/moment-es6#readme",
+  "dependencies": {
+    "moment": "*"
+  }
+}
